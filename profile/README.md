@@ -24,7 +24,7 @@ Please contact us if you want to help out and contribute.
 
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa) - (隼) A sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [Takajo](https://github.com/Yamato-Security/takajo) - (鷹匠) An analyzer for Hayabusa results.
-- [Suzaku](https://github.com/Yamato-Security/hayabusa) - (朱雀) A sigma-based threat hunting and fast forensics timeline generator for cloud logs.
+- [Suzaku](https://github.com/Yamato-Security/suzaku) - (朱雀) A sigma-based threat hunting and fast forensics timeline generator for cloud logs.
 - [WELA](https://github.com/Yamato-Security/WELA) - ゑ羅（ウェラ）(Windows Event Log Auditor): An auditing and configuration tool for Windows event logs.
 - [Yamato Security's Windows Event Log Configuration Guide For DFIR And Threat Hunting](https://github.com/Yamato-Security/EnableWindowsLogSettings) - Documentation for how to configure proper Windows audit log settings and which categories and Event IDs are important to monitor.
 - [Presentations](https://github.com/Yamato-Security/Presentations) - Presentations in English and Japanese.
